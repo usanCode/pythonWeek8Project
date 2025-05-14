@@ -15,15 +15,18 @@ The method I followed was first to use the [owid-covid-data.csv](./owid-covid-da
 I have created a new jupyter notebook in which , I will read the csv file, import the needed modules for reading the file, be able to made my analysis and find correlations, and visualitions also.
 
 **Modules used**
+
 I have imported:
 
-- Pandas
+- **Pandas** : which is a Python package used for data manipulation, reading and analysis.
 
-* Seaborn
+* **Seaborn** Helps for data visualization. It works with matplotlib.
 
-+ Numpy
++ **Numpy** this modules helps to perform many operations mainly mathematical operations.
 
-- matplotlib.pyplot
+- **matplotlib.pyplot** needed for data visualization.
+
+
 
 
 
