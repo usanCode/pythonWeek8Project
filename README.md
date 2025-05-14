@@ -10,4 +10,8 @@ that tracks global COVID-19 trends. A notebook showcasing this is included.
 
 So we'll analyze cases, deaths, recoveries, and vaccinations countries and time.
 
+The method I followed was first to use the [owid-covid-data.csv](./owid-covid-data.csv) file as the dataset from which our analysis will be conducted .
+
+
+
 
