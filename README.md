@@ -17,9 +17,12 @@ I have created a new jupyter notebook in which , I will read the csv file, impor
 **Modules used**
 I have imported:
 
-"*"Pandas
+*Pandas
+
 "*"Seaborn
+
 "*"Numpy
+
 "*"matplotlib.pyplot
 
 
