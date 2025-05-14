@@ -12,6 +12,18 @@ So we'll analyze cases, deaths, recoveries, and vaccinations countries and time.
 
 The method I followed was first to use the [owid-covid-data.csv](./owid-covid-data.csv) file as the dataset from which our analysis will be conducted .
 
+I have created a new jupyter notebook in which , I will read the csv file, import the needed modules for reading the file, be able to made my analysis and find correlations, and visualitions also.
+
+**Modules used**
+I have imported:
+
+"*"Pandas
+"*"Seaborn
+"*"Numpy
+"*"matplotlib.pyplot
+
+
+
 
 
 
